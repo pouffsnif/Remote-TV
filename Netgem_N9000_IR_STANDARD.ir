@@ -1,0 +1,237 @@
+Filetype: Bruce IR File
+Version: 1
+#
+# Netgem N9000 - Orange/Netgem remote
+#
+name: Power
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: DC 23 00 00
+bits: 32
+value: 4D B2 3B C4
+#
+name: Mute
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: 9C 63 00 00
+bits: 32
+value: 4D B2 39 C6
+#
+name: OK
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: CE 31 00 00
+bits: 32
+value: 4D B2 73 8C
+#
+name: Home
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: 82 7D 00 00
+bits: 32
+value: 4D B2 41 BE
+#
+name: Back
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: C5 3A 00 00
+bits: 32
+value: 4D B2 A3 5C
+#
+name: Up
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: CA 35 00 00
+bits: 32
+value: 4D B2 53 AC
+#
+name: Down
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: D2 2D 00 00
+bits: 32
+value: 4D B2 4B B4
+#
+name: Left
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: 99 66 00 00
+bits: 32
+value: 4D B2 99 66
+#
+name: Right
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: C1 3E 00 00
+bits: 32
+value: 4D B2 83 7C
+#
+name: Vol_dn
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: 81 7E 00 00
+bits: 32
+value: 4D B2 81 7E
+#
+name: Vol_up
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: 80 7F 00 00
+bits: 32
+value: 4D B2 01 FE
+#
+name: Guide
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: F3 0C 00 00
+bits: 32
+value: 4D B2 CF 30
+#
+name: Info
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: C3 3C 00 00
+bits: 32
+value: 4D B2 C3 3C
+#
+name: Play_pause
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: 95 6A 00 00
+bits: 32
+value: 4D B2 A9 56
+#
+name: Menu_settings
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: 8D 72 00 00
+bits: 32
+value: 4D B2 B1 4E
+#
+name: Apps
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: E9 16 00 00
+bits: 32
+value: 4D B2 97 68
+#
+name: Num_1
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: 92 6D 00 00
+bits: 32
+value: 4D B2 49 B6
+#
+name: Num_2
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: 93 6C 00 00
+bits: 32
+value: 4D B2 C9 36
+#
+name: Num_3
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: CC 33 00 00
+bits: 32
+value: 4D B2 33 CC
+#
+name: Num_4
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: 8E 71 00 00
+bits: 32
+value: 4D B2 71 8E
+#
+name: Num_5
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: 8F 70 00 00
+bits: 32
+value: 4D B2 F1 0E
+#
+name: Num_6
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: C8 37 00 00
+bits: 32
+value: 4D B2 13 EC
+#
+name: Num_7
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: 8A 75 00 00
+bits: 32
+value: 4D B2 51 AE
+#
+name: Num_8
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: 8B 74 00 00
+bits: 32
+value: 4D B2 D1 2E
+#
+name: Num_9
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: C4 3B 00 00
+bits: 32
+value: 4D B2 23 DC
+#
+name: Num_0
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: 87 78 00 00
+bits: 32
+value: 4D B2 E1 1E
+#
+name: Dot
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: DE 21 00 00
+bits: 32
+value: 4D B2 7B 84
+#
+name: Backspace
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: DF 20 00 00
+bits: 32
+value: 4D B2 FB 04
+#
+name: Assistant
+type: parsed
+protocol: NEC
+address: B2 00 00 00
+command: FE 01 00 00
+bits: 32
+value: 4D B2 7F 80
+#

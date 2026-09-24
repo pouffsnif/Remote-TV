@@ -1,3 +1,3 @@
 # Remote-TV
-Remote TV Thomson_40FG2S14_COMPLET
+File for PouffSnif / Bruce / Willy / Flipper-Zero Firmware
 Format .IR

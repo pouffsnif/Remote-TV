@@ -1,2 +1,3 @@
 # Remote-TV
-Remote TV Thomson
+Remote TV Thomson_40FG2S14_COMPLET
+Format .IR

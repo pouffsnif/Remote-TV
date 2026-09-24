@@ -1,3 +1,3 @@
 # Remote-TV
-File for PouffSnif / Bruce / Flipper-Zero Firmware
+File Remote TV for PouffSnif / Bruce / Flipper-Zero Firmware
 Format .IR

@@ -1,0 +1,316 @@
+Filetype: Bruce IR File
+Version: 1
+
+Thomson 40FG2S14
+
+name: VOL UP
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 1B E4 00 00
+bits: 32
+value: 00 FE D8 27
+
+name: VOL DOWN
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 1A E5 00 00
+bits: 32
+value: 00 FE 58 A7
+
+name: MUTE
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 16 E9 00 00
+bits: 32
+value: 00 FE 68 97
+
+name: POWER
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 15 EA 00 00
+bits: 32
+value: 00 FE A8 57
+
+name: CH UP
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 19 E6 00 00
+bits: 32
+value: 00 FE 98 67
+
+name: CH DOWN
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 18 E7 00 00
+bits: 32
+value: 00 FE 18 E7
+
+name: HOME
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 42 BD 00 00
+bits: 32
+value: 00 FE 42 BD
+
+name: BACK
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 13 EC 00 00
+bits: 32
+value: 00 FE C8 37
+
+name: MENU
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 17 E8 00 00
+bits: 32
+value: 00 FE E8 17
+
+name: SOURCE
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 12 ED 00 00
+bits: 32
+value: 00 FE 48 B7
+
+name: UP
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 0C F3 00 00
+bits: 32
+value: 00 FE 30 CF
+
+name: DOWN
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 0D F2 00 00
+bits: 32
+value: 00 FE B0 4F
+
+name: LEFT
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 0F F0 00 00
+bits: 32
+value: 00 FE F0 0F
+
+name: RIGHT
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 0E F1 00 00
+bits: 32
+value: 00 FE 70 8F
+
+name: OK
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 10 EF 00 00
+bits: 32
+value: 00 FE 08 F7
+
+name: YOUTUBE
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 4E B1 00 00
+bits: 32
+value: 00 FE 72 8D
+
+name: NETFLIX
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 4F B0 00 00
+bits: 32
+value: 00 FE F2 0D
+
+name: PRIME VIDEO
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 1C E3 00 00
+bits: 32
+value: 00 FE 38 C7
+
+name: DISNEY+
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 1E E1 00 00
+bits: 32
+value: 00 FE 78 87
+
+name: FAVORITE APP
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 1D E2 00 00
+bits: 32
+value: 00 FE B8 47
+
+name: LIVE TV
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: F9 06 00 00
+bits: 32
+value: 00 FE 9F 60
+
+name: 1
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 01 FE 00 00
+bits: 32
+value: 00 FE 80 7F
+
+name: 2
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 02 FD 00 00
+bits: 32
+value: 00 FE 40 BF
+
+name: 3
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 03 FC 00 00
+bits: 32
+value: 00 FE C0 3F
+
+name: 4
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 04 FB 00 00
+bits: 32
+value: 00 FE 20 DF
+
+name: 5
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 05 FA 00 00
+bits: 32
+value: 00 FE A0 5F
+
+name: 6
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 06 F9 00 00
+bits: 32
+value: 00 FE 60 9F
+
+name: 7
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 07 F8 00 00
+bits: 32
+value: 00 FE E0 1F
+
+name: 8
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 08 F7 00 00
+bits: 32
+value: 00 FE 10 EF
+
+name: 9
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 09 F6 00 00
+bits: 32
+value: 00 FE 90 6F
+
+name: 0
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 00 FF 00 00
+bits: 32
+value: 00 FE 00 FF
+
+name: RED
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 53 AC 00 00
+bits: 32
+value: 00 FE CA 35
+
+name: GREEN
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 52 AD 00 00
+bits: 32
+value: 00 FE 4A B5
+
+name: YELLOW
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 51 AE 00 00
+bits: 32
+value: 00 FE 8A 75
+
+name: BLUE
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 50 AF 00 00
+bits: 32
+value: 00 FE 0A F5
+
+name: TEXT
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 0A F5 00 00
+bits: 32
+value: 00 FE 50 AF
+
+name: SUB
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 49 B6 00 00
+bits: 32
+value: 00 FE 92 6D
+
+name: MICRO
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 4D B2 00 00
+bits: 32
+value: 00 FE B2 4D
+
+name: VOICE ASSISTANT
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 21 DE 00 00
+bits: 32
+value: 00 FE 84 7B
